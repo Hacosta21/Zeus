@@ -3,6 +3,7 @@ Zeus, also known as Zbot, is a notorious type of malware that has been active fo
 
 
 ![Screenshot (32)](https://github.com/Hacosta21/Zeus-Trojan/assets/65152491/d9ecb8e7-4d7d-4d3a-9d82-42672c29b5d6)
+Zeus 24hr pcap sample.
 
 
 ![Screenshot (33)](https://github.com/Hacosta21/Zeus-Trojan/assets/65152491/8623d191-bd8b-4949-a029-0a9cfa9a6a13)
