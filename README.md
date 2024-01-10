@@ -1,4 +1,6 @@
 # Zeus
+Zeus, also known as Zbot, is a notorious type of malware that has been active for several years. It primarily functions as a Trojan horse and is designed to steal sensitive information from infected computers.
+
 
 ![Screenshot (32)](https://github.com/Hacosta21/Zeus-Trojan/assets/65152491/d9ecb8e7-4d7d-4d3a-9d82-42672c29b5d6)
 
