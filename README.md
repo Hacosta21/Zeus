@@ -17,6 +17,7 @@ Zeus 24hr pcap sample.
 
 
 ![Screenshot (36)](https://github.com/Hacosta21/Zeus-Trojan/assets/65152491/03961521-d984-4437-a8b6-eca61f20b851)
+Using RITA tool to detect beaconing and investigating domains associated with suspicious IP's.
 
 
 ![Screenshot (37)](https://github.com/Hacosta21/Zeus-Trojan/assets/65152491/76cc4a7d-abeb-487b-a209-9f38705e2b33)
